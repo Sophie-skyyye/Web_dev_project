@@ -11,3 +11,11 @@
     background-size: cover;
     position: relative;
 }
+
+.circle-image {
+    border-radius: 50%;
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+  }
+  
